@@ -1,7 +1,7 @@
 Christmas Movies Data Analysis
 
 Project Overview:
-This project explores a dataset of Christmas movies to uncover trends, patterns, and key insights into factors that contribute to their popularity and performance. By analyzing movie ratings, genres, runtimes, and release patterns, the project aims to offer valuable insights for filmmakers, streaming platforms, and marketers.
+This project explores a dataset of Christmas movies to uncover trends, patterns, and key insights into factors that contribute to their popularity and performance. The project aims to offer valuable insights for filmmakers, streaming platforms, and marketers by analyzing movie ratings, genres, runtimes, and release patterns.
 
 Dataset
 • The dataset includes movie titles, release dates, user ratings, runtime, genre, and other relevant attributes.
